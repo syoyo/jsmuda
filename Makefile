@@ -1,0 +1,2 @@
+all:
+	node muda.js
